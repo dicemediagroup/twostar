@@ -1,0 +1,31 @@
+<manifest alg="2" build="10" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1418591532423">
+  <folder name="css">
+    <file name="site_global.css" crc="365011649"/>
+    <file name="master_a-master.css" crc="109157672" ref="index:about:portfolio:work-with-us:contact"/>
+    <file name="index.css" crc="4291716114" ref="index"/>
+    <file name="about.css" crc="4268119649" ref="about"/>
+    <file name="portfolio.css" crc="147632261" ref="portfolio"/>
+    <file name="work-with-us.css" crc="4268119649" ref="work-with-us"/>
+    <file name="contact.css" crc="4268119649" ref="contact"/>
+  </folder>
+  <folder name="assets">
+    <file name="secondstar_logo_final2.jpg" crc="209762029" mt="1416771219000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4164521501" ref="index:portfolio:work-with-us:about:contact"/>
+    <file name="museutils.js" crc="3777594392" ref="index:portfolio:work-with-us:about:contact"/>
+    <file name="jquery.musemenu.js" crc="415733523" ref="index:portfolio:work-with-us:about:contact"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="4144919381" ref="index:portfolio:work-with-us:about:contact"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:portfolio:work-with-us:about:contact"/>
+  </folder>
+  <folder name="images">
+    <file name="butterflies.jpg" crc="4218658801" ref="index:portfolio:work-with-us:about:contact"/>
+    <file name="u167-sprite.png" crc="4075602244" ref="portfolio"/>
+  </folder>
+  <file name="index.html" crc="3880276159" mt="1418591529838" redirect="true"/>
+  <file name="portfolio.html" crc="4281875668" mt="1418591529841" redirect="true"/>
+  <file name="work-with-us.html" crc="113232815" mt="1418591529845" redirect="true"/>
+  <file name="about.html" crc="381927514" mt="1418591529847" redirect="true"/>
+  <file name="contact.html" crc="4201973012" mt="1418591529848" redirect="true"/>
+</manifest>
